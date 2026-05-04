@@ -4,9 +4,9 @@ Analyzes 2016-2017 BART ridership data from Kaggle. Answers key questions about 
 
 Quick Start
 --
-git clone <repo-url>
-pip install pandas numpy matplotlib seaborn
-notebook bart-project.ipynb
+- git clone <repo-url>
+- pip install pandas numpy matplotlib seaborn
+- notebook bart-project.ipynb
 --
 
 Key Insights
